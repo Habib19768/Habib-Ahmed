@@ -33,9 +33,27 @@ With a passion for clean code and efficient design, I help startups, businesses,
 - [**Portfolio Website**](https://github.com/habibqureshi/portfolio) – Modern responsive portfolio built with React & TailwindCSS  
 - [**E-commerce App**](https://github.com/habibqureshi/react-ecommerce) – Full-featured React app with payment integration & product management  
 - [**Open Source Chatbot**](https://github.com/habibqureshi/chatbot) – Node.js & AI-powered chatbot for websites  
-- [**Task Manager App**](https://github.com/habibqureshi/task-manager) – JavaScript-based productivity app with CRUD functionality  
+- [**Task Manager App**](https://github.com/habibqureshi/task-manager) – JavaScript-based productivity app with CRUD functionality
+- ## 🌟 Featured Projects
 
----
+- [**Portfolio Website**](https://github.com/habibqureshi/portfolio)  
+🌐 Modern responsive portfolio built with **React & TailwindCSS**. Perfect showcase of skills, projects, and professional branding. [Live Demo](https://habibqureshi.com)
+
+- [**E-commerce App**](https://github.com/habibqureshi/react-ecommerce)  
+🛒 Full-featured React e-commerce app with **payment integration, product management, and responsive design**.
+
+- [**Open Source Chatbot**](https://github.com/habibqureshi/chatbot)  
+🤖 AI-powered chatbot built with **Node.js**, ideal for websites, automation, and interactive applications.
+
+- [**Task Manager App**](https://github.com/habibqureshi/task-manager)  
+✅ JavaScript-based productivity app with **CRUD functionality** and responsive UI for task management.
+
+- [**Freelance Project Template**](https://github.com/habibqureshi/client-project-template)  
+💼 Real-world client project demonstrating professional web solutions, custom UI, and responsive design.
+
+- [**Utility Tool / Open Source Contribution**](https://github.com/habibqureshi/utility-tool)  
+🔧 Small but useful project showcasing **open-source contributions and collaboration skills**.
+
 
 ## 📊 GitHub Stats & Activity
 ![Habib's GitHub stats](https://github-readme-stats.vercel.app/api?username=habibqureshi&show_icons=true&theme=radical&count_private=true)
