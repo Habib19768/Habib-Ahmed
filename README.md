@@ -2,7 +2,11 @@
 ### 🚀 Frontend Developer | Freelancer | Open-source Contributor
 **I turn ideas into responsive, fast, and visually stunning web applications.**  
 With a passion for clean code and efficient design, I help startups, businesses, and individuals bring their digital visions to life.
-
+ 🎓 Computer Science Graduate
+- 💻 Passionate about Web Development & AI
+- 🛠️ Building real-world, scalable projects
+- 📈 Focused on clean code, performance & productivity
+- 💼 Open to opportunities, freelance & collaborations
 ---
 
 ## 💻 Skills & Tech Stack
